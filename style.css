@@ -118,7 +118,7 @@ button span {
     width: 150%;
     height: 500px;
     border-radius: 10px 0px 0px 10px;
-    background-image: url(/images/image-product-desktop.jpg);
+    background-image: url(./images/image-product-desktop.jpg);
     background-size: cover;
     background-position: center;
   }
